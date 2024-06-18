@@ -1,0 +1,114 @@
+.services {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 547px;
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+.services__content-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 62px;
+    max-width: 400px;
+}
+
+.services__title {
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+    color:#2B4074;
+    font-size: 48px;
+    line-height: 1;
+    margin: 0;
+}
+
+.services__subtitle {
+    color:#4A4A4A;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.1;
+    margin: 64px 0 30px 0;
+}
+
+.services__line {
+    width: 100px;
+    height: 8px;
+    background-color: #2B4074;
+}
+
+.services__text {
+    color: #797979;
+    font-size: 18px;
+    line-height: 1.3;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.services__grid {
+    display: grid;
+    width: 900px;
+    height: 547px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    list-style: none;
+    
+}
+
+.services__grid-item {
+    width: 212px;
+    height: 255px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.services__icon {
+    filter: brightness(0) saturate(100%) invert(19%) sepia(44%) saturate(1049%) hue-rotate(188deg) brightness(101%) contrast(89%);
+}
+
+.services__caption {
+    color: #4A4A4A;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Roboto Condensed';
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 25px auto;
+}
+
+.services__hidden-text,  .services__hidden-button{
+    display: none;
+}
+
+.services__hidden-text {
+    font-size: 16px;
+    line-height: 1.1;
+    font-weight: 500;
+    color: #9B9B9B;
+    text-align: center;
+    margin: 18px 0;
+}
+
+.services__hidden-button {
+    color: #2B4074;
+    border: none;
+    background: transparent;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-family: 'Roboto';
+}
+
+.services__grid-item:hover .services__hidden-text, .services__grid-item:hover .services__hidden-button {
+    display: block;
+    cursor: pointer;
+}
+
+.services__grid-item:hover {
+    border: 5px solid #2B4074;
+    cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background-color: #2B4074;
+}
+
+.header__logo {
+    margin-left: 61px;
+}
+
+.header__menu {
+    margin-right: 150px;
+}
+
+.header__menu:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
