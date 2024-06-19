@@ -1,10 +1,9 @@
 import Services from '../Services/Services';
 
-
-function Main() {
+function Main({ setSelectedItem, setIsPopupOpen, items }) {
   return (
     <main>
-        <Services />
+        <Services setSelectedItem={setSelectedItem} setIsPopupOpen={setIsPopupOpen} items={items}/>
     </main>
   )
 }

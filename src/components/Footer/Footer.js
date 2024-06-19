@@ -14,8 +14,7 @@ function Footer() {
         </div>
 
         <div className='footer__text-container'>
-            <p className='footer__text'>Мы хотели бы услышать все о вашем проекте.</p>
-            <p className='footer__text'>Свяжитесь с нами. </p>
+            <p className='footer__text'>Мы хотели бы услышать все о вашем проекте. Свяжитесь с нами.</p>
         </div>
 
         <nav className='footer__social-links-container'>
