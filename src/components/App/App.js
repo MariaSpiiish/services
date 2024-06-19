@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-// import Footer from '../Footer/Footer';
+import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Main from '../Main/Main';
 import Popup from '../Popup/Popup';
@@ -31,7 +31,7 @@ function App() {
         <div className="page">
           <Header />
           <Main setSelectedItem={setSelectedItem} items={fetchedData} setIsPopupOpen={setIsPopupOpen}/>
-          {/* <Footer /> */}
+          <Footer />
           <Popup item={selectedItem} isOpen={isPopupOpen} close={closePopup}/>
         </div>
     </div>
