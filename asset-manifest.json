@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/services/static/css/main.5c6f28ce.css",
+    "main.js": "/services/static/js/main.1ad67421.js",
+    "static/js/453.038b1095.chunk.js": "/services/static/js/453.038b1095.chunk.js",
+    "static/media/Roboto-Medium.ttf": "/services/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/services/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Light.ttf": "/services/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/RobotoCondensed-Light.ttf": "/services/static/media/RobotoCondensed-Light.43aa3135f2d0207e6473.ttf",
+    "static/media/RobotoCondensed-Medium.ttf": "/services/static/media/RobotoCondensed-Medium.ff190f979bb05ae7bee6.ttf",
+    "static/media/RobotoCondensed-Regular.ttf": "/services/static/media/RobotoCondensed-Regular.72f32aff4124468d86a4.ttf",
+    "static/media/Roboto-Medium.woff": "/services/static/media/Roboto-Medium.8fe3f99a84745a795ef8.woff",
+    "static/media/Roboto-Regular.woff": "/services/static/media/Roboto-Regular.a58c1338fa15ac8b4330.woff",
+    "static/media/Roboto-Light.woff": "/services/static/media/Roboto-Light.087ca26861ec61b77849.woff",
+    "static/media/RobotoCondensed-Medium.woff": "/services/static/media/RobotoCondensed-Medium.f04e2b3866685946fa89.woff",
+    "static/media/RobotoCondensed-Light.woff": "/services/static/media/RobotoCondensed-Light.e21e4daba561d437b76d.woff",
+    "static/media/RobotoCondensed-Regular.woff": "/services/static/media/RobotoCondensed-Regular.5e2764807c2919a4efc0.woff",
+    "static/media/RobotoCondensed-Medium.woff2": "/services/static/media/RobotoCondensed-Medium.5c8bea88901bea119cf7.woff2",
+    "static/media/RobotoCondensed-Light.woff2": "/services/static/media/RobotoCondensed-Light.c4a95708446ec1788a76.woff2",
+    "static/media/Roboto-Medium.woff2": "/services/static/media/Roboto-Medium.55a1ee68e40eeca8c84e.woff2",
+    "static/media/RobotoCondensed-Regular.woff2": "/services/static/media/RobotoCondensed-Regular.a996a94b9c97f274c15a.woff2",
+    "static/media/Roboto-Regular.woff2": "/services/static/media/Roboto-Regular.727e3c83bd6c9c8e3b50.woff2",
+    "static/media/Roboto-Light.woff2": "/services/static/media/Roboto-Light.fb3d6a9e6f6eb05f93c6.woff2",
+    "index.html": "/services/index.html",
+    "main.5c6f28ce.css.map": "/services/static/css/main.5c6f28ce.css.map",
+    "main.1ad67421.js.map": "/services/static/js/main.1ad67421.js.map",
+    "453.038b1095.chunk.js.map": "/services/static/js/453.038b1095.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6f28ce.css",
+    "static/js/main.1ad67421.js"
+  ]
+}
